@@ -37,4 +37,24 @@ public class RigidBodyMove : MonoBehaviour {
         }
 
     }
+
+    /* 碰撞相关
+    //有与之相撞的事件发生后会调用，相撞的物体会传入当作参数。
+    void OnCollisionEnter(Collision collision)
+    {
+        Debug.Log("collison enter with:" + collision.gameObject.name);
+    }
+
+    void OnCollisionExit(Collision collision)
+    {
+        Debug.Log("collison exit with:" + collision.gameObject.name);
+    }
+
+    void OnCollisionStay(Collision collision)
+    {
+        Debug.Log("collison stay with:" + collision.gameObject.name);
+    }
+    */
+
+
 }
