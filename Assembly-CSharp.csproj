@@ -65,11 +65,13 @@
      <Compile Include="Assets\scrips\InputTest.cs" />
      <Compile Include="Assets\scrips\LifeTest.cs" />
      <Compile Include="Assets\scrips\PlayerControler.cs" />
+     <Compile Include="Assets\scrips\RayTest_12.cs" />
      <Compile Include="Assets\scrips\RigidBodyMove.cs" />
      <Compile Include="Assets\scrips\script1.cs" />
      <Compile Include="Assets\scrips\StudentMove.cs" />
      <Compile Include="Assets\scrips\TextByMouse.cs" />
      <Compile Include="Assets\scrips\TextureGo.cs" />
+     <Compile Include="Assets\scrips\ToolsClass_11.cs" />
      <Compile Include="Assets\scrips\Wall.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
