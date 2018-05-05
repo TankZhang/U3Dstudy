@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/scenes/scene12.unity
+- path: Assets/scenes/RayDemo_13.unity
   isLoaded: 1
   isActive: 1

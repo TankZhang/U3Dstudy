@@ -54,6 +54,8 @@
      <Compile Include="Assets\prefebs\amusedART\Mushroom_Monster\Script\MushroomMon_Ani_Test.cs" />
      <Compile Include="Assets\scrips\AudioControl.cs" />
      <Compile Include="Assets\scrips\BoxDelete.cs" />
+     <Compile Include="Assets\scrips\Brick_14.cs" />
+     <Compile Include="Assets\scrips\bullet_14.cs" />
      <Compile Include="Assets\scrips\CoroutineTest.cs" />
      <Compile Include="Assets\scrips\CreateBox.cs" />
      <Compile Include="Assets\scrips\CubeLife.cs" />
@@ -65,6 +67,7 @@
      <Compile Include="Assets\scrips\InputTest.cs" />
      <Compile Include="Assets\scrips\LifeTest.cs" />
      <Compile Include="Assets\scrips\PlayerControler.cs" />
+     <Compile Include="Assets\scrips\RayDemo_13.cs" />
      <Compile Include="Assets\scrips\RayTest_12.cs" />
      <Compile Include="Assets\scrips\RigidBodyMove.cs" />
      <Compile Include="Assets\scrips\script1.cs" />
